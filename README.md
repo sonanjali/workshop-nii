@@ -7,7 +7,7 @@ hello <- function(){
 }
 ```
 
-
+```
 #R assignment week 2 day 4
 
 #Q1
@@ -25,7 +25,7 @@ sa.wnt <- c('WNT1','WNT2','FZD1','FZD2','LRP5','LRP6','DVL1','DVL2','DVL3','FRAT
 num <- 1:3
 genes <- c('a','b','c')
 data.frame(num, genes)
-
+```
 
 
 
